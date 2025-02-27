@@ -3,18 +3,27 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     outline: 1px solid black; /* Corrected outline syntax */
-    background-color: rgba(94, 90, 90, 0.151);
+    background-color: rgba(177, 168, 149, 0.438);
     padding-top: 2px;
     border-radius: 10px;
     padding-left: 20px;
     padding-right: 20px;
     width: 50%;
     margin: 0% auto;
-    background-color: rgba(177, 168, 149, 0.438);
+    display: block;
 }
+iframe{
+    justify-content: flex-end;
+    display: flex;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-left: 68%;
+    border: 2px solid black;
 
+   
+}
 h1{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .icon {
